@@ -16,5 +16,9 @@
             "type": "question",
             "content": "Jouez à pile ou face. Si c'est pile, le robot de la coupe plante, et vous buvez tous {b1-5}, si c'est face, le robot plante quand même et vous buvez aussi."
         }
+        {
+            "type": "action",
+            "content": "Tu es arrivé à l'heure à l'AG, tu bois{5-5}<br/>"
+        }
     ]
 }
